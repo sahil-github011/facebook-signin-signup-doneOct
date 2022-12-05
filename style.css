@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+   
+}
+
+.container {
+	width: 100%;
+	height: auto;
+	background-color: #f0f2f5;
+	padding-top: 20px;
+	padding-bottom: 80px;
+}
+.section-1{
+    width: 520px;
+    height: auto;
+    /* border: 1px solid; */
+    margin: 0 auto;
+    /* background-color: white; */
+}
+.fb-logo{ 
+    width: 240px;
+    display: block;
+    margin: 0 auto ;    
+}
+.login-section {
+	width: 400px;
+	height: 300px;
+	background-color: white;
+	margin: 10px auto 0;
+	box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+	border-radius: 10px;
+	text-align: center;
+	padding-bottom: 25px;
+}
+.login-header {
+	font-size: 19px;
+	line-height: 60px;
+}
+input{
+    width: 330px;
+    padding: 14px 16px;
+    font-size: 17px;
+    border-radius: 6px;
+    background: #FFFFFF url(/rsrc.php/v3/yU/r/O7nelmd9XSI.png) repeat-x;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    height: 22px;
+    line-height: 16px;
+    vertical-align: middle;
+    margin-bottom: 10px;
+}
+button{
+    width: 360px;
+    background-color: #166fe5;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 10px;
+
+}
+a {
+	color: #1877f2;
+	font-size: 15px;
+	font-weight: 500;
+	text-decoration: none;
+	margin: 0px 5px;
+	line-height: 2.34;
+}
+a:hover {
+	text-decoration: underline;
+	color: #385898;
+}
+
+
+.footer-body {
+	width: 100%;
+	height: auto;
+	/* background-color: gray; */
+	padding-top: 100px;
+	padding-bottom: 20px;
+}
+footer{
+	width: 980px;
+	height: auto;
+	background-color: white;
+	margin: 0  auto ;
+}
+footer ul{
+	color: gray;
+	/* text-align: left; */
+	
+}
+footer ul li {
+	display: inline-block;
+	font-size: 12px;
+	margin: 0 5px;
+}
+footer ul li a{
+	text-decoration: none;
+	color: gray;
+}
+hr{
+	color: #dddfe2;
+}
+.copyright{
+	font-size: 11px;
+	color: #737373;
+	padding-left: 40px;
+}
+
+
+
+
+
